@@ -1,0 +1,58 @@
+import { v4 as uuidv4 } from "uuid"
+
+export const destinations = [
+  {
+    id: uuidv4(),
+    image: "../images/image-1.jpg",
+    title: "Mombasa",
+    desc: "Compliment interested discretion estimating on stimulated apartments oh. Dear so sing when in find read of call. As distrusts behaviour abilities defective is. Never at water me might. On formed merits hunted unable merely by mr whence or. Possession the unpleasing simplicity her uncommonly.",
+    book: "Book A Room",
+    bookUrl: "/book-a-room",
+    learn: "Learn More",
+  },
+  {
+    id: uuidv4(),
+    image: "../images/image-2.jpg",
+    title: "Atlantic Quays",
+    desc: "Compliment interested discretion estimating on stimulated apartments oh. Dear so sing when in find read of call. As distrusts behaviour abilities defective is. Never at water me might. On formed merits hunted unable merely by mr whence or. Possession the unpleasing simplicity her uncommonly.",
+    book: "Book A Room",
+    bookUrl: "/book-a-room",
+    learn: "Learn More",
+  },
+  {
+    id: uuidv4(),
+    image: "../images/image-3.jpg",
+    title: "Miami",
+    desc: "Compliment interested discretion estimating on stimulated apartments oh. Dear so sing when in find read of call. As distrusts behaviour abilities defective is. Never at water me might. On formed merits hunted unable merely by mr whence or. Possession the unpleasing simplicity her uncommonly.",
+    book: "Book A Room",
+    bookUrl: "/book-a-room",
+    learn: "Learn More",
+  },
+  {
+    id: uuidv4(),
+    image: "../images/image-4.jpg",
+    title: "Malindi",
+    desc: "Compliment interested discretion estimating on stimulated apartments oh. Dear so sing when in find read of call. As distrusts behaviour abilities defective is. Never at water me might. On formed merits hunted unable merely by mr whence or. Possession the unpleasing simplicity her uncommonly.",
+    book: "Book A Room",
+    bookUrl: "/book-a-room",
+    learn: "Learn More",
+  },
+  {
+    id: uuidv4(),
+    image: "../images/image-5.jpg",
+    title: "Iceland",
+    desc: "Compliment interested discretion estimating on stimulated apartments oh. Dear so sing when in find read of call. As distrusts behaviour abilities defective is. Never at water me might. On formed merits hunted unable merely by mr whence or. Possession the unpleasing simplicity her uncommonly.",
+    book: "Book A Room",
+    bookUrl: "/book-a-room",
+    learn: "Learn More",
+  },
+  {
+    id: uuidv4(),
+    image: "../images/image-6.jpg",
+    title: "Italy",
+    desc: "Compliment interested discretion estimating on stimulated apartments oh. Dear so sing when in find read of call. As distrusts behaviour abilities defective is. Never at water me might. On formed merits hunted unable merely by mr whence or. Possession the unpleasing simplicity her uncommonly.",
+    book: "Book A Room",
+    bookUrl: "/book-a-room",
+    learn: "Learn More",
+  },
+]

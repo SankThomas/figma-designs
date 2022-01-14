@@ -1,9 +1,20 @@
 # Real Estate Website Template
 
-[Website link](https://tsbsankara-real-estate.netlify.app)
+[Live Demo](http://tsbsankara-real-estate.netlify.app)
 
-This website was designed in Figma and built in ReactJs. You can change the text to whatever you want or play around with the colors. You are free to do whatever you want.
+![alt](./homepage.jpg)
 
-![alt](homepage.jpg)
+## About
 
-<!-- Add link to repository -->
+This Travel Agency website was built in ReactJS, styled with TailwindCSS and routed in `react-router-dom`.
+
+### Features
+
+It's features include:
+
+1. View optimal design depending on device.
+2. Mobile-first build.
+
+#### Queries
+
+Contact me: tsbsankara@gmail.com

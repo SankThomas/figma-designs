@@ -2,7 +2,7 @@
 
 [Live Demo](http://tsbsankara-product-page.netlify.app)
 
-![alt](./headphones.jpg)
+![alt](./headphones.png)
 
 ## About
 
